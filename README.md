@@ -24,7 +24,6 @@ Hello, I'm a Software Developer/ Data Scientist, I code and create things which 
 
 ## Portfolio - 
 
-visit - 
 <a href="https://namank.xyz/" target="_blank"> Portfolio </a>
 
 <a href="https://namank.xyz/images/Naman%20Resume.pdf" target="_blank"> Resume</a>
