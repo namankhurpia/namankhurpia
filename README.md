@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hello, I'm a Software Developer/ Data Scientist, I code and create things which matter to humans, Most of my projects are open sourced and can be viewed right below. 
 
-Currently I m working with one of my professors here at SUNY - DIDC Labs (Data Intensive Distributed Computing Lab) on some amazing projects.
+🔭 Currently I m working with one of my professors here at SUNY - DIDC Labs (Data Intensive Distributed Computing Lab) on some amazing projects.
 
 ## My Skills
 
@@ -37,17 +37,3 @@ visit - http://namank.xyz
 
 (Available for Full time hiring and internships)
 Just email - namankhurpia2@gmail.com 
-
-
-## Recent Activity
-
-[![starsBadge]][stargazers]
-[![forksBadge]][forks]
-[![issuesBadge]][issues]
-![sizeBadge]
-![codelinesBadge]
-[![codeOfConductBadge]][codeOfConduct]
-
-![uniqueUsersBadge]
-![totalrunsbadge]
-![successratebadge]
