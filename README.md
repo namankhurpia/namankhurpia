@@ -21,19 +21,16 @@ Hello, I'm a Software Developer/ Data Scientist, I code and create things which 
 
 🔭 Currently I m working with one of my professors here at SUNY - DIDC Labs (Data Intensive Distributed Computing Lab) on some amazing projects.
 
-## My Skills
-
-Backend Frameworks: Spring Boot, Hibernate, Apache Kafka, Rabbit MQ, Node JS, Kubernetes, Docker.
-
-Frontend Frameworks: Angular 14, React JS, Native Android Apps.
-
-Skills - AWS, CloudWatch logs, Elastic Beanstalk, Jenkins, SonarQube, Docker, Redis, Git, Netflix OSS, Zuul, MVC, MVVM, AGILE, Java, Python, TypeScript, JavaScript, C/C++, Swift, HTML, CSS, SQL, PostgreSQL, MySQL, MongoDB, Hashicorp - Vault.
 
 ## Portfolio - 
 
-visit - http://namank.xyz
+visit - 
+<a href="https://namank.xyz/" target="_blank"> Portfolio </a>
+
+<a href="https://namank.xyz/images/Naman%20Resume.pdf" target="_blank"> Resume</a>
+
 
 ## How to Reach Me
 
 (Available for Full time hiring and internships)
-Just email - namankhurpia2@gmail.com 
+📫 Mailbox - namankhurpia2@gmail.com 
