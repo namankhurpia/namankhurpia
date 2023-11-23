@@ -22,8 +22,8 @@ Hello, I'm a Software Developer/ Data Scientist, I code and create things which 
 🔭 Currently I m working with one of my professors here at SUNY - DIDC Labs (Data Intensive Distributed Computing Lab) on some amazing projects.
 
 
-![image]({[BadgeURLHere](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)})
-
+![image]({[https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6]})
+<img src="{[BadgeURLHere](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)}" />
 ## Portfolio - 
 
 <a href="https://namank.xyz/" target="_blank"> Portfolio </a>
