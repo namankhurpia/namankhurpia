@@ -38,6 +38,9 @@ Hello, I'm a Software Developer/ Data Scientist, I code and create things which 
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 </div>
+
+<br>
+
 ## Portfolio - 
 
 <a href="https://namank.xyz/" target="_blank"> Portfolio </a>
