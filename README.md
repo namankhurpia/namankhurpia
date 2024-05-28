@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Hello, I'm a Software Developer/ Data Scientist, I code and create things which matter to humans, Most of my projects are open sourced and can be viewed right below. 
 
-🔭 Currently I m working with one of my professors here at SUNY - DIDC Labs (Data Intensive Distributed Computing Lab) on some amazing projects.
+🔭 Currently I'm exploring Pytorch and Tensorflow, and finetuning LLMs on my local machine.
 
 <div style = "display: flex;">
 <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
