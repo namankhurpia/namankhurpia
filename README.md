@@ -52,3 +52,5 @@ Hello, I'm a Software Developer/ Data Scientist, I code and create things which 
 
 (Available for Full time hiring and internships)
 📫 Mailbox - namankhurpia2@gmail.com 
+
+![namankhurpia's Stats](https://github-readme-stats.vercel.app/api?username=namankhurpia&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
