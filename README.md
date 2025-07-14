@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I'm a Software Developer/ Data Scientist, I code and create things which matter to humans, Most of my projects are open sourced and can be viewed right below. 
+Hello, I'm a  Data Scientist, I code and create things which matter to humans, Most of my projects are open sourced and can be viewed right below. 
 
 🔭 Currently I'm exploring Pytorch and Tensorflow, and finetuning LLMs on my local machine. I try not to limit myself with stack rather I have developed myself to code in any language be it one you created.
 
