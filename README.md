@@ -33,7 +33,6 @@ Hello, I'm a  Data Scientist, I code and create things which matter to humans, M
 
 <a href="http://namankhurpia.github.io" target="_blank"> Portfolio </a>
 
-<a href="http://namankhurpia.github.io/images/Naman%20Resume.pdf" target="_blank"> Resume</a>
 
 
 ## How to Reach Me
