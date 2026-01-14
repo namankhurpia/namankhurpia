@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I'm a  Data Scientist, I code and create things which matter to humans, Most of my projects are open sourced and can be viewed right below. 
+Hello, I’m a Data Scientist focused on building systems that solve real, human-centered problems. I enjoy turning ideas into working products, and most of my projects are open-source and available below.
 
-🔭 Currently I'm exploring Pytorch and Tensorflow, and finetuning LLMs on my local machine. I try not to limit myself with stack rather I have developed myself to code in any language be it one you created.
+🔭 I’m currently working with PyTorch and TensorFlow, with a strong focus on fine-tuning large language models locally. I’ve also built end-to-end implementations of transformer-based models, including GPT-style architectures, to better understand model internals rather than treating them as black boxes.
+
+I try not to limit myself with stack rather I have developed myself to code in any language be it one you created.
 
 <div style = "display: flex;">
 
@@ -37,6 +39,6 @@ Hello, I'm a  Data Scientist, I code and create things which matter to humans, M
 
 ## How to Reach Me
 
-(Available for Full time hiring )
+(Available for Full time hiring)
 📫 Mailbox - namankhurpia2@gmail.com 
 
