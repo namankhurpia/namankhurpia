@@ -22,34 +22,22 @@ Hello, I'm a  Data Scientist, I code and create things which matter to humans, M
 🔭 Currently I'm exploring Pytorch and Tensorflow, and finetuning LLMs on my local machine. I try not to limit myself with stack rather I have developed myself to code in any language be it one you created.
 
 <div style = "display: flex;">
-<img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" />
+
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-<img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-<img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white" />
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" />
-<img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white" />
-<img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-<img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" />
 </div>
 
 <br>
 
 ## Portfolio - 
 
-<a href="https://namank.xyz/" target="_blank"> Portfolio </a>
+<a href="http://namankhurpia.github.io" target="_blank"> Portfolio </a>
 
-<a href="https://namank.xyz/images/Naman%20Resume.pdf" target="_blank"> Resume</a>
+<a href="http://namankhurpia.github.io/images/Naman%20Resume.pdf" target="_blank"> Resume</a>
 
 
 ## How to Reach Me
 
-(Available for Full time hiring and internships)
-📫 Mailbox - namankhurpia3@gmail.com 
+(Available for Full time hiring )
+📫 Mailbox - namankhurpia2@gmail.com 
 
