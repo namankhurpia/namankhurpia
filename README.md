@@ -17,17 +17,18 @@ Here are some ideas to get you started:
 
 ## About Me
 
-Hello, I’m a Data Scientist focused on building systems that solve real, human-centered problems. I enjoy turning ideas into working products, and most of my projects are open-source and available below.
+Data Scientist / ML Engineer building systems that solve real, human-centered problems — and shipping most of it as open source.
 
-🔭 I’m currently working with PyTorch and TensorFlow, with a strong focus on fine-tuning large language models locally. I’ve also built end-to-end implementations of transformer-based models, including GPT-style architectures, to better understand model internals rather than treating them as black boxes.
+What I'm working on
+🤖 Agent orchestration. I'm building multi-agent systems — coordinating LLM-driven agents, tools, and workflows to tackle tasks that a single model can't handle alone.
+🧠 Large language models, up close. I fine-tune LLMs locally with PyTorch and TensorFlow, and I've built transformer-based models — including GPT-style architectures — end to end. I'd rather understand model internals than treat them as black boxes.
+🧪 LLM evaluation & reliability. Lately I've been working with evaluation frameworks (metrics like G-Eval, faithfulness, and RAG/agentic checks) and contributing fixes upstream to open-source LLM tooling such as DeepEval.
+🛠️ From idea to working product. I like turning research ideas into things people can actually run.
+🌐 Language-agnostic. I don't box myself into a stack — give me any language, even one you invented, and I'll build in it.
 
-I try not to limit myself with stack rather I have developed myself to code in any language be it one you created.
+Tech I reach for
 
-<div style = "display: flex;">
-
-<img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-
-</div>
+Python · PyTorch · TensorFlow · Transformers / LLMs · Agent Orchestration · RAG · LLM Evals
 
 <br>
 
@@ -42,3 +43,4 @@ I try not to limit myself with stack rather I have developed myself to code in a
 (Available for Full time hiring)
 📫 Mailbox - namankhurpia2@gmail.com 
 
+Optional GitHub stats : ![Naman's GitHub stats](https://github-readme-stats.vercel.app/api?username=namankhurpia&show_icons=true)
