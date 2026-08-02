@@ -8,7 +8,7 @@
 
 - 🤖 **Agent orchestration** — building multi-agent systems that coordinate LLM-driven agents, tools, and workflows to tackle tasks a single model can't handle alone.
 - 🧠 **Large language models, up close** — fine-tuning LLMs locally with **PyTorch** and **TensorFlow**, and building transformer-based models (including GPT-style architectures) end to end. I'd rather understand model internals than treat them as black boxes.
-- 🧪 **LLM evaluation & reliability** — working with evaluation frameworks (metrics like G-Eval, faithfulness, and RAG/agentic checks) and contributing fixes upstream to open-source LLM tooling such as [DeepEval](https://github.com/confident-ai/deepeval).
+- 🧪 **LLM evaluation & reliability** — working with evaluation frameworks (metrics like G-Eval, faithfulness, and RAG/agentic checks) and contributing fixes upstream to open-source LLM tooling.
 - 🛠️ **From idea to working product** — turning research ideas into things people can actually run.
 - 🌐 **Language-agnostic** — I don't box myself into a stack; give me any language, even one you invented, and I'll build in it.
 
